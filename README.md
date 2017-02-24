@@ -8,6 +8,7 @@ The communication between the android application and the PHP API is achieved us
 To use this system:
 
 1- Place the PHP API (android_login_api folder) under www/html/ path for linux localhost or www for other host.
+
 2- Change the WebServiceLinks.java file by replacing the URLs to yours.
 
 --> It is needed in almost every android application!
